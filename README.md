@@ -21,7 +21,7 @@ Welcome to my GitHub!
 
 ### 2️⃣ [REST Assured Project](https://github.com/MattCza/RestAssured-reqres-testing)
 - **Description**: API testing project in a **Java environment**.
-- **Technologies**: REST Assured, JUnit.
+- **Technologies**: REST Assured, TestNG, JSON based tools.
 
   
 ## 🛠️ **Skills**
