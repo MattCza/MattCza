@@ -25,14 +25,13 @@ Welcome to my GitHub!
 
   
 ## 🛠️ **Skills**
-- **Automation Tools**: Selenium, REST Assured, JMeter, Postman.  
-- **Programming**: Java, SQL.  
-- **Tools**: Jira, Git, Jenkins, Docker.  
-- **Operating Systems**: Windows, Linux, MacOS.  
+- **Automation Tools**: Selenium, REST Assured, JMeter, Postman  
+- **Programming**: Java, Python, JS  
+- **Tools**: Jira, JSON, SQL, Git, Jenkins, Docker  
+- **Operating Systems**: Windows, Linux, MacOS  
   
 ## 📫 **Contact Me**
 - 📧 [Email](mailto:czajkowskimt@gmail.com)  
-- 🖥️ [GitHub](https://github.com/MattCza)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/czajkowski-mateusz1)
 
 
