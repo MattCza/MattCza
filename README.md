@@ -8,7 +8,7 @@ Welcome to my GitHub!
 ## 💼 **About Me**
 
 - 🌟 **Role**: Protocol Test Engineer at Samsung Electronics Poland  
-- 📍  Based in Poland  
+- 🏠  Based in Poland  
 - 🎓 Master's degree in Computer Science and Economic Analysis  
 - 🌐 Proficient in **Java**, **Selenium**, **REST Assured**, and more.
 
