@@ -19,13 +19,17 @@ Welcome to my GitHub!
 - **Description**: GUI test automation using the **Page Object Model (POM)** design pattern.
 - **Technologies**: Java, Selenium WebDriver, TestNG.
 
-### 2️⃣ [REST Assured Project](https://github.com/MattCza/RestAssured-reqres-testing)
+### 2️⃣ [REST API testing Project](https://github.com/MattCza/Grocery-store-API-testing)
+- **Description**: REST API testing project in a **Postman, Java, Python environment**.
+- **Technologies**: JavaScript, Newman, REST Assured, TestNG, requests, pytest.
+
+### 3️⃣ [REST Assured Project](https://github.com/MattCza/RestAssured-reqres-testing)
 - **Description**: API testing project in a **Java environment**.
 - **Technologies**: REST Assured, TestNG, JSON based tools.
 
   
 ## 🛠️ **Skills**
-- **Automation Tools**: Selenium, REST Assured, JMeter, Postman  
+- **Automation Tools**: Selenium, REST Assured, JMeter, Postman, requests  
 - **Programming**: Java, Python, JS  
 - **Tools**: Jira, JSON, SQL, Git, Jenkins, Docker  
 - **Operating Systems**: Windows, Linux, MacOS  
