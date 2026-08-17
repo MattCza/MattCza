@@ -7,9 +7,9 @@ I enjoy building maintainable automated test frameworks, improving test coverage
   
 ## 💼 **About Me**
 
--  **Current role**: QA Tester at Asseco Poland
+-  **Current role**: Test Automation Engineer at Asseco Poland
 -  **Previous experience**: Protocol Test Engineer at Samsung Electronics Poland
--  **Location**: Poland
+-  **Location**: Poznań, Poland
 -  **Education**: Master's degree in Computer Science and Economic Analysis
 -  **Focus**: QA Automation, API Testing, Integration Testing, Software Quality
 -  **Main language**: Java
